@@ -15,7 +15,9 @@
 
 
 
-
+body{
+    background: #1d2d3c;
+}
 
 .disk-container, .disk-details-container {
     display: flex;

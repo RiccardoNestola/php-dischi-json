@@ -27,7 +27,7 @@ Al click su un disco, recuperare e mostrare i dati del disco selezionato.
 
 </head>
 
-<body class="bg-secondary">
+<body>
     <div id="app">
         <header class="mb-4">
             <nav class="navbar bg-dark">
